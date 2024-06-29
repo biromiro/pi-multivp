@@ -1,0 +1,6 @@
+[submodule "pinn-multivp"]
+	path = pinn-multivp
+	url = https://github.com/biromiro/pinn-multivp
+[submodule "pino-multivp"]
+	path = pino-multivp
+	url = https://github.com/biromiro/pino-multivp
