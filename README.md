@@ -39,8 +39,8 @@ Similar to the PiNN approach, the PiNO model utilizes data processed through the
 To clone this repository and initialize submodules:
 
 ```
-git clone --recursive https://github.com/yourusername/master-thesis-solar-wind-forecasting.git
-cd master-thesis-solar-wind-forecasting
+git clone --recursive [https://github.com/yourusername/master-thesis-solar-wind-forecasting.git](https://github.com/biromiro/pi-multivp)
+cd pi-multivp
 ```
 
 ### Running Experiments
