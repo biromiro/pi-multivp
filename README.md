@@ -1,6 +1,6 @@
 # Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models
 
-This repository consolidates the source code and experimental results for two distinct approaches developed as part of my master thesis "Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models".
+This repository consolidates the source code and experimental results for two distinct approaches developed as part of my master thesis, "Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models."
 
 ## PiNN Approach
 
@@ -57,6 +57,8 @@ If you use any part of this work in your research, please cite the corresponding
   title        = {Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models},
   school       = {University of Porto},
   year         = {2024},
+  address      = {Porto, Portugal},
+  month        = {July},
 }
 ```
 
