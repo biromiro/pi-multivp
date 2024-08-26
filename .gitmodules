@@ -4,3 +4,6 @@
 [submodule "pino-multivp"]
 	path = pino-multivp
 	url = https://github.com/biromiro/pino-multivp
+[submodule "pignn-multivp"]
+	path = pignn-multivp
+	url = https://github.com/biromiro/pignn-multivp.git
