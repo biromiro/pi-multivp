@@ -1,6 +1,6 @@
 # Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models
 
-This repository consolidates the source code and experimental results for two distinct approaches developed as part of my master thesis, "Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models."
+This repository consolidates the source code and experimental results for two distinct approaches developed as part of my master thesis, "Leveraging Physics-Informed Neural Architectures as Solar Wind Forecasting Models." It also comprises the latest attempts to leverage Graph Neural Networks.
 
 ## PiNN Approach
 
@@ -31,6 +31,20 @@ The PiNO (Physics-Informed Neural Operator) approach explores neural operators f
 ### Data
 
 Similar to the PiNN approach, the PiNO model utilizes data processed through the MULTI-VP model. The specific dataset details are subject to the same privacy and licensing restrictions mentioned earlier.
+
+## GNN experiments
+
+### Overview
+
+The Graph Neural Network approach explores the viability of using graph neural networks within this context.
+
+### Structure
+
+- **src/**: Contains the source code for implementing the GNN approach.
+
+### Data
+
+Similar to the PiNN approach, the GNN models utilize data processed through the MULTI-VP model. The specific dataset details are subject to the same privacy and licensing restrictions mentioned earlier.
 
 ## Installation and Usage
 
